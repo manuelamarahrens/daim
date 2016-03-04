@@ -8,7 +8,7 @@ public class manuela {
 		System.out.println("Hallo zurueck!!");
 		System.out.println("Hej Mädels!");
 		System.out.println("NIX :)");
-
+		System.out.println("FERTIG !!!");
 		}
 
 }
