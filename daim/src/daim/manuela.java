@@ -7,7 +7,8 @@ public class manuela {
 		System.out.println("Hallo zurück!! Ich bins Betty!");
 		System.out.println("Hallo zurueck!!");
 		System.out.println("Hej Mädels!");
+		System.out.println("NIX :)");
 
-	}
+		}
 
 }
