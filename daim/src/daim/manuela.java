@@ -4,7 +4,7 @@ public class manuela {
 
 	public static void main(String[] args) {
 
-		System.out.println("Hallo Marion! Dies ist ein Testfile!");
+		System.out.println("Hallo zurück!");
 
 	}
 
